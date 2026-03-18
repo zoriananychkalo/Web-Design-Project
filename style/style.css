@@ -300,7 +300,7 @@ iframe {
   border-radius: 1rem;
 }
 
-footer {
+footer{
   background-color: #000000;
   border-top: 1px solid rgba(255,255,255,0.08);
   padding: 1.4rem 3rem;
@@ -309,11 +309,11 @@ footer {
   align-items: center;
 }
 
-.footer-copy {
+.footer-copy{
   font-size: 0.78rem;
   color: #666666;
 }
 
-  .hero-title {
-    font-size: clamp(4rem, 18vw, 8rem);
-  }
+.hero-title{
+  font-size: clamp(4rem, 18vw, 8rem);
+}
